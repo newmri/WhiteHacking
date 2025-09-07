@@ -1,0 +1,4 @@
+ARP: Address Resolution Protocol의 약자로서 IP주소를 MAC주소로 변환해주는 프로토콜
+누군가 특정 IP를 가진게 누군지 물어보면 각 디바이스는 자기면 아이피랑 MAC 응답
+각 디바이스는 arp 테이블이 있음
+정상적이면 네트워크를 Router를 통해야하지만 자기를 Router인것처럼 속임
