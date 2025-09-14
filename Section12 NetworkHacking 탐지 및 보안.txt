@@ -1,0 +1,4 @@
+arp 스푸핑 탐지: xarp같은 프로그램 설치 맥주소 변경 탐지, 와이어샤크에서 Detect ARP request storms
+IP의 맥주소 dynamic -> static으로 변경
+
+MIMT 방지: https everywhere같은거 사용, VPN
