@@ -4,10 +4,7 @@ Maltego 툴로 특정 인물에 대해 찾거나 할 수 있음
 
 gtrgpj.exe -> gtr gpj.exe 사이에 붙여넣으면 gtrexe.jpg가 됨
 
-
-
-
-
+DMARC: 이메일 스푸핑을 이용한 피싱, 사기 등을 막기 위한 도메인 기반 메시지 인증
 
 
 
