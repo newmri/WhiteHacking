@@ -1,0 +1,3 @@
+파일 업로드 (php)
+코드실행: EX) ping 쓰는 입력창에 아이피;ls al 같은 명령어 입력
+url 조작으로 /etc/passwd 접근
